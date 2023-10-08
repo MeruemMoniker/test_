@@ -67,6 +67,11 @@
     border-radius: 7.5px;
     text-align: center;
     font-size: 1.2rem;
+    cursor: pointer;
+  }
+
+  .submit-button:hover {
+    cursor: hover;
   }
 
   .email-input {
@@ -133,6 +138,7 @@
 
   #welcome-button:hover {
     transform: translateY(-5px);
+    cursor: pointer;
   }
 
   #welc-about1 {
@@ -584,6 +590,7 @@
 
   .cr-edit:hover {
     color: red;
+    cursor: pointer;
   }
 
   .cr-edit:visited {
