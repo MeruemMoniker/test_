@@ -82,7 +82,7 @@
     white-space: nowrap;
     border: 2px solid black;
     color: white;
-    background-color: crimson;
+    background-color: #c00026;
     border-radius: 7.5px;
     text-align: center;
     font-size: 1.2rem;
@@ -149,7 +149,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border: 2px solid black;
     color: white;
-    background-color: crimson;
+    background-color: #c00026;
     border-radius: 7.5px;
     text-align: center;
     font-size: 1.2rem;
@@ -292,7 +292,7 @@
   }
 
   #welcome-section {
-    background-image: linear-gradient(to bottom, crimson, white);
+    background-image: linear-gradient(to bottom, #c00026, white);
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -479,7 +479,7 @@
   }
 
   .contact {
-    background-image: linear-gradient(to top, crimson, white);
+    background-image: linear-gradient(to top, #c00026, white);
   }
 
   .contact-button {
@@ -504,7 +504,7 @@
     white-space: nowrap;
     border: 2px solid black;
     color: white;
-    background-color: crimson;
+    background-color: #c00026;
     text-align: center;
     border-radius: 7.5px;
     font-size: 1.2rem;
@@ -538,7 +538,7 @@
     white-space: nowrap;
     border: 2px solid black;
     color: white;
-    background-color: crimson;
+    background-color: #c00026;
     text-align: center;
     border-radius: 7.5px;
     font-size: 1.2rem;
@@ -598,7 +598,7 @@
   
   nav > ul > li:hover {
     border-radius: 3px;
-    background-color: crimson;
+    background-color: #c00026;
     color: white;
     cursor: pointer;
   }
