@@ -278,7 +278,7 @@
   }
 
   #welcome-section {
-    background-image: linear-gradient(to bottom right, red, white);
+    background-image: linear-gradient(to bottom, red, white);
     align-items: center;
     justify-content: center;
     text-align: center;
