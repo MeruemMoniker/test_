@@ -465,7 +465,7 @@
   }
 
   .contact {
-    background-image: linear-gradient(to top left, red, white);
+    background-image: linear-gradient(to top, red, white);
   }
 
   .contact-button {
