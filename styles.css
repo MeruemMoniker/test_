@@ -22,7 +22,7 @@
     min-width: 10px;
     min-height: 10px;
     margin: 1rem;
-    color: #9a6d28;
+    color: darkgoldenrod;
   }
 
   .ss:visited {
@@ -162,7 +162,7 @@
 
   #welc-about1 {
     text-transform: uppercase;
-    color: #9a6d28;
+    color: darkgoldenrod;
     font-size: 3.5rem;
     text-align: center;
     justify-content: center;
@@ -182,7 +182,7 @@
     min-width: 2.0rem;
     max-width: 10rem;
     min-height: .5rem;
-    background-color: #9a6d28;
+    background-color: darkgoldenrod;
     margin-left: auto;
     margin-right: auto;
     border: 2px solid black;
@@ -443,7 +443,7 @@
   .skills {
     display: flex;
     flex-wrap: wrap;
-    border: 2px solid #9a6d28;
+    border: 2px solid darkgoldenrod;
     margin: 5px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
@@ -609,11 +609,11 @@
   }
 
   .cr-edit {
-    color: #9a6d28;
+    color: darkgoldenrod;
   }
 
   .cr-edit:hover {
-    color: darkorange;
+    color: #c00026;
     cursor: pointer;
   }
 
