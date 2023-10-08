@@ -71,7 +71,7 @@
     white-space: nowrap;
     border: 2px solid black;
     color: white;
-    background-color: blue;;
+    background-color: red;;
     border-radius: 7.5px;
     text-align: center;
     font-size: 1.2rem;
@@ -137,7 +137,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border: 2px solid black;
     color: white;
-    background-color: blue;
+    background-color: red;
     border-radius: 7.5px;
     text-align: center;
     font-size: 1.2rem;
@@ -274,7 +274,7 @@
   }
 
   #welcome-section {
-    background-image: linear-gradient(to bottom right, blue, white);
+    background-image: linear-gradient(to bottom right, red, white);
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -283,18 +283,6 @@
     max-height: 2000px;
     padding: 8rem 5rem;
   }
-
-  /*header {
-    width: 100%;
-    height: 75px;
-    background-color: #1b1b44;
-    display: inline-block;
-    justify-content: center;
-    align-items: end;
-    top: 0;
-    margin: 0 auto;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }*/
 
   .About-mee {
     max-height: 2000px;
@@ -473,7 +461,7 @@
   }
 
   .contact {
-    background-image: linear-gradient(to bottom right, blue, white);
+    background-image: linear-gradient(to bottom right, red, white);
   }
 
   .contact-button {
@@ -498,7 +486,7 @@
     white-space: nowrap;
     border: 2px solid black;
     color: white;
-    background-color: blue;
+    background-color: red;
     text-align: center;
     border-radius: 7.5px;
     font-size: 1.2rem;
@@ -532,7 +520,7 @@
     white-space: nowrap;
     border: 2px solid black;
     color: white;
-    background-color: blue;
+    background-color: red;
     text-align: center;
     border-radius: 7.5px;
     font-size: 1.2rem;
@@ -592,7 +580,7 @@
   
   nav > ul > li:hover {
     border-radius: 3px;
-    background-color: blue;
+    background-color: red;
     color: white;
     cursor: pointer;
   }
