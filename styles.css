@@ -577,3 +577,15 @@
     color: inherit;
     text-decoration: none;
   }
+
+  .cr-edit {
+    color: rgba(239, 228, 25, 0.903);
+  }
+
+  .cr-edit:hover {
+    color: red;
+  }
+
+  .cr-edit:visited {
+    color: darkred;
+  }
