@@ -4,6 +4,10 @@
     }
   }
 
+  members-list {
+    justify-content: center;
+  }
+
   .ss {
     min-width: 10px;
     min-height: 10px;
