@@ -12,6 +12,7 @@
 
   .members-list {
     justify-content: center;
+    display: inline-block;
   }
 
   .member {
