@@ -4,9 +4,12 @@
     }
   }
 
+  .member-list-container {
+    justify-content: center;
+  }
+
   .members-list {
     justify-content: center;
-    margin: 0 35% 0 35%;
   }
 
   .member {
