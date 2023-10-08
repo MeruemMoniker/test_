@@ -11,6 +11,13 @@
     margin-right:35%;
   }
 
+  .member {
+    font-weight: normal;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
   .ss {
     min-width: 10px;
     min-height: 10px;
