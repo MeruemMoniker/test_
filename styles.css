@@ -292,7 +292,7 @@
   }
 
   #welcome-section {
-    background-image: linear-gradient(to bottom, #c00026, white);
+    background-image: linear-gradient(to bottom, red, white);
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -479,7 +479,7 @@
   }
 
   .contact {
-    background-image: linear-gradient(to top, #c00026, white);
+    background-image: linear-gradient(to top, red, white);
   }
 
   .contact-button {
