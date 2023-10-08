@@ -6,6 +6,7 @@
 
   .member-list-container {
     justify-content: center;
+    align-items: center;
   }
 
   .members-list {
