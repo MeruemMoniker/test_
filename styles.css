@@ -12,6 +12,7 @@
   }
 
   .member {
+    display: inline-block;
     font-weight: normal;
     font-size: 1.2rem;
     line-height: 1.5;
