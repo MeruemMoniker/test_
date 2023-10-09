@@ -4,11 +4,12 @@
     }
   }
 
-  /*.member-list-container {
-  }*/
+  .member-list-container {
+    text-align: center;
+  }
 
   .members-list {
-    text-align: center;
+    text-align: left;
     display: inline-block;
   }
 
