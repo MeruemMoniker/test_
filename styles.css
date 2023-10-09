@@ -17,6 +17,7 @@
   }
 
   .member {
+    margin: 0 auto;
     font-weight: normal;
     font-size: 1.2rem;
     line-height: 1.5;
