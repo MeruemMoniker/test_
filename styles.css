@@ -4,24 +4,14 @@
     }
   }
 
-  .member-list-container {
-    justify-content: center;
-    align-items: center;
-    display: inline-block;
-    text-align: center;
-  }
+  /*.member-list-container {
+  }*/
 
   .members-list {
-    justify-content: center;
-    display: inline-block;
-    margin: 0 auto;
     text-align: center;
   }
 
   .member {
-    justify-content: center;
-    text-align: center;
-    margin: 0 auto;
     font-weight: normal;
     font-size: 1.2rem;
     line-height: 1.5;
